@@ -25,7 +25,7 @@ public class CustomerRepo {
 		 * customer.setName("Sankari"); customer.setPoints(700);
 		 * 
 		 * Customer customer1 = new Customer(); customer1.setId(90);
-		 * customer1.setName("Arush"); customer1.setPoints(900);
+		 * customer1.setName(""); customer1.setPoints(900);
 		 * 
 		 * customers.add(customer); customers.add(customer1);
 		 */
